@@ -1,0 +1,13 @@
+write.csv(us_contagious_diseases,file = "us_contagious_diseases.csv", row.names = FALSE)
+
+
+write.csv(disease_subset,file = "disease_subset.csv", row.names = FALSE)
+
+
+write.csv(nc_subset,file = "nc_subset.csv", row.names = FALSE)
+
+
+write.csv(us_avg,file = "us_avg.csv", row.names = FALSE)
+
+
+write.csv(nc_avg,file = "nc_avg.csv", row.names = FALSE)
